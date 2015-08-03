@@ -17,13 +17,13 @@
  <head> 
   <meta charset='utf-8'/>
   <meta content='Dimitris Raviolos' name='author'/>
-  <link href='https://dl.dropboxusercontent.com/u/20183245/temp.css' media='screen, projection' rel='stylesheet' type='text/css'/>
   <link href='https://dl.dropboxusercontent.com/u/20183245/menu.css' media='screen, projection' rel='stylesheet' type='text/css'/>
-  <link href='https://dl.dropboxusercontent.com/u/20183245/toggle2.css' media='screen, projection' rel='stylesheet' type='text/css'/>
   <script src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'/>
   <script src='https://dl.dropboxusercontent.com/u/20183245/jsoma-tabletop-3db9080/src/tabletop.js' type='text/javascript'/>
   <script src='https://dl.dropboxusercontent.com/u/20183245/Chart.js-master2/Chart.js' type='text/javascript'/>
   <script src='https://dl.dropboxusercontent.com/u/20183245/javascript/iframeResizer.min.js' type='text/javascript'/>
+  <script src='https://dl.dropboxusercontent.com/u/20183245/site/handbook/js/isotope.pkgd.min.js' type='text/javascript'/>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css"></link>
   <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/> 
    <b:skin><![CDATA[ 
     * {
@@ -38,6 +38,7 @@
       background-color: rgb(231, 235, 238);
     }
     body {
+      margin: 0.5%;
       font-family: 'Lato', sans-serif;
     }
     section {
@@ -52,14 +53,29 @@
     .post-title {
       font-weight: bold;
       font-size: 1.5em;
-      margin: 1em;
       letter-spacing: 2px;
       text-transform: uppercase;
       text-align: center;
+      background-color:#34495e;
+      padding: 10% 3% 10% 3%;
+      color: white;
+    }
+    .post-title > a {
+      color: white;
+      text-decoration: none;
+    }
+    #post-footer-timedate {
+      display: none;
+    }
+    #post-footer-author {
+      display: none;
+      padding: 10% 3% 10% 3%;
+      text-align: center;
+    }
+    #cssmenu {
+      margin-bottom: 0.5%;
     }
     .post-wrapper {
-      padding-left: 5%;
-      padding-right: 5%;
       text-align: justify;
     }
     .masonry {
@@ -90,6 +106,12 @@
       padding-bottom: 2%;
       padding-top: 1%;
     }
+    .sizer {
+      width: 33%;
+    }
+    .gutter-sizer {
+      width: 0.5%;
+    }
 	.widget ul  { margin: 0 0; padding: 0 0; }
    ]]></b:skin> 
  </head> 
@@ -98,13 +120,35 @@
      <b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog'>
        <b:includable id='main' var='top'>
 	   <b:include data='top' name='navigation'/>
+      <section>
+        <div class="sizer"></div>
+        <div class="gutter-sizer"></div>
        <b:if cond='data:numPosts != 0'> 
-        <b:loop values='data:posts' var='post'> 
-             <div class='post-wrapper'> 
+        <b:loop values='data:posts' var='post'>
+          <b:if cond='data:blog.pageType != &quot;item&quot;'>
+            <div class='post-wrapper masonry'>
               <b:include data='post' name='post'/> 
-             </div> 
-        </b:loop> 
+            </div> 
+          <b:else/>
+            <div class='post-wrapper'>
+              <b:include data='post' name='post'/> 
+            </div> 
+          </b:if>
+        </b:loop>
+        <b:if cond='data:blog.pageType != &quot;item&quot;'>
+        <script>
+          $('section').isotope({
+            itemSelector: '.post-wrapper',
+            percentPosition: true,
+            masonry: {
+              columnWidth: '.sizer',
+              gutter: '.gutter-sizer'
+            }
+          })
+        </script>
+        </b:if> 
        </b:if> 
+      </section>
     </b:includable>
        <b:includable id='backlinkDeleteIcon' var='backlink'>
   <span expr:class='&quot;item-control &quot; + data:backlink.adminClass'>
@@ -525,13 +569,12 @@
 <ul>
    <li><a href='/'><span>Home</span></a></li>
    <li><a href='/search/label/handbooks'><span>Handbooks</span></a></li>
-   <li><a href='/search/label/updates'><span>Updates</span></a></li>
    <li><a href='/search/label/resources'><span>Resources</span></a></li>
    <li><a href='/search/label/smallguides'><span>Small Guides</span></a></li>
    <li class='last'><a href='/p/about-me.html'><span>About Me</span></a></li>
    <div>
    <li><a class='menu-linkedin' href='http://gr.linkedin.com/in/dimitrisraviolos/'>LinkedIn</a></li>
-   <li><a class='menu-twitter' href='https://twitter.com/DictumMortuum'>Twitter</a></li>
+   <li><a class='menu-github' href='https://github.com/DictumMortuum'>GitHub</a></li>
    <li><a class='menu-facebook' href='http://www.facebook.com/DictumMortuum'>Facebook</a></li>
    </div>
 </ul>
@@ -569,7 +612,7 @@
      <b:include data='post' name='post-footer'/> 
     </b:includable>
        <b:includable id='post-body' var='post'> 
-<b:if cond='data:blog.pageType == &quot;item&quot;'>
+    <b:if cond='data:blog.pageType == &quot;item&quot;'>
 			<div class='ads'>
 			<script src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'/>
 			<ins class='adsbygoogle' data-ad-client='ca-pub-8299220726239491' data-ad-slot='0140366480' style='display:inline-block;width:300px;height:250px'/>
@@ -586,9 +629,8 @@
 			<script>
 			(adsbygoogle = window.adsbygoogle || []).push({});
 			</script>
-		</div>
-
-         </b:if>
+		  </div>
+    </b:if>
      <b:if cond='data:blog.metaDescription == &quot;&quot;'> 
       <div class='post-body' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='description articleBody'> 
        <data:post.body/> 
