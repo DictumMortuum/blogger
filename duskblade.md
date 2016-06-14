@@ -1,151 +1,96 @@
-The duskblade is a basic class from the 3.5e Player's Handbook II. The main characteristic of the class is that it is a hybrid fighter and wizard out-of-the-can.
 
-For as long as I can remember, the perfect gish build was something that the optimization community worked on. A gish originally referred to a Githyanki fighter/wizard combination. Soon, it started to be used for all multiclass characters that used magic and weapons. In 3.5e a variety of builds started to form a standard, employing prestige classes that progressed both base attack bonus and caster level.
 
-## When to play duskblade
+    Winning Strategy: VP or Dial.
+    Followers: Defensive.
+    Chaos Cards: Domination, Control.
 
-Using builds that rely on extensive multiclassing is not appealing. You may not have access to all the books that you need. You might not be able to fit the prerequisites required for the prestige classes and the abilities you want. If you are like me, you might even consider extensive multiclassing ugly, in an aesthetic sense. Bottom line, if you want to play a gish, but you don't want to plan a complex character build, then Duskblade is a perfect fit.
+# Key Points
 
-The abilities that the Duskblade class offers, with the exception of arcane channeling feel generic. This is because most of them don't offer alternatives, like bonus feats. Seasoned players may not like limited options, but at the same time it is helpful for new players. Inexperienced players that wish to play a gish can pick up Duskblade and they can't mess up if they avoid multiclassing.
+## Least Amount of Followers
 
-Another feature of the class is spontaneous spellcasting. This kind of spellcasting is prefered due to its simplicity. Even more experienced players choose classes with spontaneous spellcasting if they want to minimize their character's upkeep.
+Slaanesh has the lowest number of figures in the old world - he only has six cultists (Seductresses), three warriors (Daemonettes) and one greater daemon (Keeper of Secrets). This means that there is a pretty hard cap on the number of possible dial advancement counters that can be gained each round; that number is three, but if you count in your chaos cards and the Keeper of Secrets upgrade, you can possibly get another one or two. This  also means that you won't participate a lot in battles; not only your warriors and greater daemon are just four figures, but they also have the least amount of attack dice per power point cost; at the same time however, they are quite sturdy - both Daemonettes and Keeper of Secrets have the best defence values for their power point cost. 
 
-You just need two books to play the class - player's handbook I and player's handbook II. These two books contain optimal choices for your race, feats and equipment. Almost the entirety of your skills and spells are contained in them, while other classes require material from different books. This is the biggest perk of the class: it is not spread out.
+## Shortest Dial
 
-Recently, a classification for classes called tiers has surfaced and gained popularity. This is a quick and dirty method to determine a class's power level, using five tiers. This should be used only as a guideline, as in 3.5e taking levels in a tier 1 class does not guarantee a tier 1 build quality. Duskblades fall somewhere in the lower middle of this ranking, in tier 3. Do not be discouraged by this,  tier 3 is considered to be the best power level for normal play. Use this piece of information to compare your power level to that of your teammates. If the difference is higher than two tiers, then this might influence your game negatively. For instance, in a party with druids and wizard, a duskable may feel inadequate. Unfortunately, you can do this analysis if you know the players beforehand, it is not applicable in new parties.
+Directly assosiated with his low amount of possible dial adcancement counters that can be gained each round, his dial is the shortest in length - only seven ticks are required to get to the finish. Assuming you can manage a dial tick each round, you get a rough feeling about how long an average game of  Chaos in the Old World should be, which is about 7 rounds more or less (as already indicated by the Old World deck length!). It's very important to estimate the dial advancement counters each of the other gods will be able to get and try to manipulate the board with your chaos cards in order to secure a double dial advancement condition if that's possible - that will bring you very close to a dial win.
 
-The duskblade is a class that favors dealing damage in high amounts. Aside from that, it is not good in anything else. Investigate the campaign that you are going to join and ask the dungeon master for information. If you are going to face a fair number of encounters each day, then you are good to go. If the encounters are going to be sparse, then it might be a good idea to pick another class. A bard or a beguiler for instance has a wide array of noncombat abilities that are useful and fall in the same power level.
+## Difficult Dial Advancement Condition
 
-## The duskblade's role
+From all the Chaos Gods, Slaanesh arguably has the most difficult dial advancement condition; even Tzeentch gets one more Warpstone token, but he may even not care about it if he creates a dial advancement condition opportunity himself, using his chaos cards with magic symbols. During the first couple of turns, in which your cultists are generally weak, you're better off trying to lay low and secure your dial tick in order to get tougher. Try to save your Noble tokens from early ruinations using your chaos cards, because otherwise you're in a difficult position if you're trying to win by the dial. As more tokens get added, you can use Hero tokens, too, because of the game's twisted sadistic sense: since Slaanesh is the God with the highest threat scores (at least as you gain more ticks), you'll get caught in a loop of placing units to secure dial advancement conditions from hero tokens and then losing your figures to the tokens; on the other hand, if you're behind on your threat dial by other gods, the Hero tokens will kinda protect your region from intruder figures. 
 
-The part of the game that a duskblade excels in is dealing hit point damage. [Worse is better](https://en.wikipedia.org/wiki/Worse_is_better), also called New Jersey style, was conceived by Richard P. Gabriel to describe the dynamics of software acceptance, but it has broader application. The idea is that quality does not necessarily increase with functionality. There is a point where less functionality ("worse") is a preferable option ("better") in terms of practicality and usability. Adapting this design style to the dusklade class, we have the following characteristics, excluding **correctness**:
+## Difficult Starting Place
 
-**Simplicity.** A duskblade deals hit point damage with his attacks and spells. The two can be combined with his class ability arcane channeling. The duskblade uses a simple and intuitive way of dealing damage. Compared to other classes the duskblade functions the same at all levels of play. The playstyle of other spellcasting classes, like the druid or the wizard, changes often. Playing a duskblade partly means that you commit to dealing damage this way.
+Slaanesh wants Noble tokens and those are only two at the start of the game. Not only that, but they may be far off one another, or in regions of low value.
 
-**Consistency.** Duskblades receive a high number of spells per day. They can use their damage dealing abilities often. The amount of damage that comes from their spellcasting ability scales. There are certain levels that unlock more powerful spells. Increase your number of spells per day only if you keep your build simple.
+# Threat Dial
 
-**Competeness.** The spell list of the duskblade class contains different energy type spells. Picking up different spells as you level up will enable you to cover all reasonably expected cases. Sacrifice competeness when the simplicity of your build is jeopardized. Do not go to great lengths to increase your spells known.
+![Slaanesh's dial](http://1.bp.blogspot.com/-CL1iCIjSQ4w/UFwPGLH0yfI/AAAAAAAAAC8/xGcEEDIt7qA/s1600/%CF%83%CE%BB%CE%B1%CE%BD%CE%B5%CF%82.jpg)
 
-# Attributes
+As written previously, your threat dial is the shortest one; unfortunately, the trend which is to offer some victory points at the first tick and an upgrade card at the second is also repeated for Slaanesh's threat dial. 
+The ability that's unique to his dial is his third tick, which adds two noble tokens to the board. Getting to three ticks earlier than the third round can be tricky, but the ability to place some additional nobles can be powerful, both as a victory-point gain mechanism and a defensive one - place them in different areas so that you can get dial adcancement conditions; remember though that your maximum number of possible number of dial advancement conditions are three and four or five under very exceptional circumstances; the only way for you to lose your Noble tokens early is to a quick ruination. Remember that initially there are only two Noble tokens on the board and that your situation depends a lot on whether those noble tokens are close to each other or not. The fact that there is a wide array of Old World cards that place Noble or Hero tokens, however, helps a lot.
+The other unique feature of Slaanesh's dial is just next to the victory tick - you get to remove two Old World tokens. The problem with removing Old World tokens with your threat dial bonus is that during the end phase of the game, the sequence of resolving effects that's printed on each god's power sheet states that first you resolve end phase Old World cards and then you get your threat dial ticks; this means that the bonus is not that useful against event tokens (unless you're feeling lucky or you want to defend against an ongoing effect), but it'll do a very good job at removing the other ones (Noble, Hero, Warpstone, Skaven and Peasant); the top candidates for removal are probably Hero tokens that are a nuisance if you don't care for the dial advancement condition, Noble tokens that are out of your reach in order to stop your enemies (probably Nurgle) to get free victory points and Warpstone tokens to keep Tzeentch in check or, more rarely to prevent a region from being ruined (that's because, again, according to the sequence of events at the end of turn, ruined regions are scored before threat dial ticks).
 
-## <span class="navy">Strength</span>
+# Upgrades
 
-The Duskblade is mainly a melee class. Melee combat relies heavily on strength. Remember that the main form of hit point damage of a Duskblade is melee attacks with Arcane Channeling. This attribute is going to provide additional damage and attack bonus. If you are using a two-handed weapon, the damage bonus is going to get multiplied.
+## <span class="navy">Cultist Upgrade</span>
 
-Strength is also helpful with alternative combat maneuvers, like grapple, bull rush and sunder. This is because these maneuvers often use strength checks. Increasing strength also helps defending against some of these, because the rolls are contested. Having better defenses against these maneuvers is not a priority, but a good addition for a melee class.
+Your seductresses are, to put simply, the figures that will win the game for you, barring exceptional circumastances. Your four warriors and your greater daemon are just not enough - they only have an auxiliary purpose; besides, they are mostly defensive in nature and will mostly help you to control a region rather to act aggresively. This upgrade is of top priority, because it enhances your main units; a defensive upgrade will keep your cultists from dying with only one lucky hit and secure your precious dial advancement conditions.
 
-Duskblades are primarily melee, but, having ranged damage readily available is important. Do remember if you are using a composite longbow you can buy one suited to your strength. This way you can translate your strength score to ranged damage. This applies mainly at low to mid levels, where you can't use your spells all the time.
+## <span class="blue">Power of Pain/Power of Pleasure</span>
 
-The human race is the most optimal choice for a duskblade build. However, an illumian with the Aeshkrau sigil and high strength does have good synergy. This power sigil combination allow the illumian to use his strength score to determine bonus spells. The bonus, unfortunately, doesn't extent to the save difficulty class, but saves are rarely an issue in a duskblade build.
+It annoys me a little that you need to get both in order to really have a larger power point reserve than the other gods. It's a simple: get two and one for free (like pizza!) and although it generally seems to me as being an average deal I usually end up getting them for my second and third upgrade, as the one is next to the other and I don't have to wait long to utilize my additional power points. Slaanesh has the special benefit to act last in the player order, which may be invaluable as the game progresses: you can delay until all players have depleted their power point reserve and then start using your leftover power points in order to control enemy figures with your chaos cards to secure a win. In a situation like this, having the additional power points from these upgrades is a very good thing, but also situational - it largely depends on the chaos cards that you have drawn and whether you needed to use them or not. Another way to use these upgrades is to put some of your fighting figures on the board in order to score some quick-n-dirty victory points. Important note: another reason why this upgrade might be more worth it than the others for you last upgrades is the Hero tokens; you get dial advancement condition by investing your cultists in regions that contain your Hero tokens and if you're going for a dial win (or even when you're not), you'll quite possibly have the highest threat score of all the players. The fact that a Hero token removes a unit of the player that has the highest threat score in that area means that if you're investing in remote regions that no one cares about, means that you'll definitely have to sacrifice some of your units, regardless of your threat score. So, since you'll probably want to re-use your units, having these ugrades might prove handy when meddling with those pesky Hero tokens. 
 
-The suggested starting value is 14. Try to increase your strength score whenever it is possible. You can do this through attribute bonuses that all characters get every four levels. Another way would be a typical magical item that gives enhancement bonus.
+##Greater Daemon Upgrade
 
-## Dexterity
+I'm always fascinated by this upgrade and I usually find myself wondering whether I should get this upgrade or the power point upgrades, but almost always the power point upgrades win the mental battle. My first problem is that this upgrade only lets you control an enemy cultist or warrior - not a greater daemon; I know deep inside that an upgrade card like that would be extremelly potent, but now that I've got a reason to summon my greater daemon, I'd like my three power points spend in a good way, not (another pizza deal!) summon your greater daemon: get a cultist for free. If I could get a fourth upgrade card, this would ultimately be my choice, but I prefer going with my large power point reserve and my sturdy seductresses. I'm planning to playtest a Cultist, Greater Daemon & Power Point upgrade strategy soon and post the results - if you've already done such a test or have developed an alternative strategy revolving around this upgrade card, please share the results.
 
-Avoid dexterity as your main combat skill. The duskblade is a feat starved class; it receives no bonus feats. Using melee weapons with dexterity means that you will have to get weapon finesse. Spending a feat slot that could be used for better feats, like power attack, is not encouraged.
+## <span class="red">Warrior Upgrade</span>
 
-This doesn't mean that dexterity is a dump stat, though. As a melee frontline combatant, the duskblade benefits from abilities like combat reflexes. Abilities like that have a minimum dexterity requirement, partly because they scale according to it. For this reason, its suggested starting value is 10-14.
+This upgrade seems to be very good to inexperienced players and I see it getting picked often and they are right - it's actually a very good upgrade! The downside is that it only affects your three Daemonettes that will, as your greater daemon, rarely see any play, unless you don't have anything better to spend your power points on. The greater daemon upgrade might be quite goon in the sense that it has the benefit that a strategy can evolve around it, but this is another boring defensive upgrade to your already sturdy warriors. Not to mention that if someone scores two hits in a region where you have warriors and cultists, he is going to completely ignore your Daemonettes that are not able to die (especially with this upgrade!) and are not really an offensive threat and immediately target your cultists. The only way that this upgrade is going to be useful, is if you follow a weird anti-Khorne strategy, to try and dominate regions with your heavily defensive units, backed by some of your chaos cards in order to get the victory points, but not giving him dial advancement conditions. 
 
-Finally, dexterity boosts armor class and the duskblade's weakest save: reflex.
+# Chaos Cards
 
-## <span class="blue">Constitution</span>
+Slaanesh has a good deck of chaos cards that generally follow two main themes; they will mostly help you win the game by controlling enemy units or making it easier for you to dominate regions. Your chaos cards is another signature part of this Chaos God and if I had to describe them with one word, that would be 'control'.
+The worst thing about Slaanesh is that he doesn't have a method of drawing additional Chaos Cards and that will prove to be a problem in many of your games; a control player's main requirement for an easy victory is a large hand of cards, a lot like Tzeentch's method of card drawing. For that reason, it's important that you think through before playing or start spamming your cards. Also, remember that the game will last something around seven turns and you're beginning with three, so that's a total of approximately 17 cards, out of your deck of 24. This means that you will not draw all the cards, so, if you need multiples of a specific card, on an average game you'll probably won't get it. You'll have to get into Slaanesh's playstyle - he does have cards important to his game, but at the same time you'll have to learn and adapt to the situation and when the time's right to actually spend the card. 
 
-Constitution is the attribute that determines your character's health and fortitude save. Duskblades have a d8 hit die, which is respectable. The fortitude saves are primary for the duskblade class. Regarding skills, constitution helps only concentration.
+## Domination (Victory Point Themed) Cards
 
-All these facts do not make constitution the top priority for duskblades. However, as a melee class, you  can never have enough hit points, as you need them to stay alive. The suggested starting value is 14.
+### Abyssal Pact - 0 pp
 
-## <span class="blue">Intelligence</span>
+This card is somewhat of a double-edged sword, as it can serve multiple purposes beneficial to you, but it also carries a magic symbol, which can benefit Tzeentch. Fortunately, you're last in the player order after Tzeentch and you can play it in a position that will not benefit him. Quite simply, what this card does, is to deny opponents to add their figures' total to their domination scores for that region. The card has zero power point cost, which is perfect when you just want to stall, so that the board is already fixed and you just want to place your cultists in an advantageous position. You can also use it as an oppening move to discourage the other players to place their units in a region where you want to settle yourself, so don't be afraid to use it early if that means that Abyssal Pact will increase your chances of getting that double tick early on. Normally, the card will target Nurgle most of the times, or anyone that meddles with your Noble tokens; alternatively you can use it as your finishing move against regions with lots of units, in order to deny both victory points to the other player and make him essentially lose many resources from placing units that in the end did not contribute anything (such as Nurgle using just his cheap warriors to dominate a region); of course, that might be a tricky move, because you might find that the chaos card slots for regions such as those get filled quickly. Abyssal Pact is also a direct counter to lots of Nurgle cards, like Influenza, Plague Aura, Stentch of Death and to Khorne's The Skull Throne.
 
-## <span class="red">Wisdom</span>
+### Insidious Lies - 1 pp
 
-## <span class="red">Charisma</span>
+While Abyssal Pact clears the way, but doesn't really gives you any power points, Insidious Lies does a very good job at dominating regions - sometimes it doesn't even require the presence of your units! With this card you can easily dominate the weak regions if they just have a Noble or Hero token; I usually try to keep my Insidious Lies (and generally cards that help to dominate) for regions that provide a heavy victory point return - Kislev, the Empire, Bretonnia, Tilea, Estalia and especially if they carry Noble tokens you'll score additional points. Another benefit of this card is that these regions are usually Populous, which means that you're treading on Nurgle grounds, who loves ruining regions. For this reason, you can use cards that will help you dominate them, like this one, without adding extra corruption tokens; the benefits are twofold: first, you're delaying the ruination of a region that carries precious Noble tokens until you get a Dark Influence card to move them to another region, while still scoring big victory points without investing much of your power points; of course this strategy might prove to be problematic, because you're giving the most corruption tokens and thus the first ruination place, quite possibly to another god, but the net result might worth it; second, you're free to move your cultists to other regions in order to dominate and/or ruin them. You can also employ mind game tactics when playing this chaos card, it can be used to screw someone's resources to dominate a certain region almost too efficiently, at least if they dare to mess with your tokens.
 
-# Class Features
+### Degenerate Royalty - 3 pp
 
-## Weapon and Armor Proficiency
+This is another card that is similar to Insidius Lies and gives a flat bonus of three points to your domination score. However it assumes that you have to play it on regions that have already seen some action, since you'll never want to pay its cost - rather, you'll want to play it for free to ensure that you'll dominate a region. That makes the card almost worthless if you get it for your oppening hand, since you can do nothing with it - it's better if you summon your cultists and actually get a dial advancement condition and some corruption tokens in addition to dominating a region. A bonus of this card is that it states 'three corruption tokens', but it doesn't care to whom those tokens belong! So you can have the others do the work for you and then start claiming regions. Again you'll want to target the high-resistant regions with these chaos cards and just skip the low costed border regions - you can dominate them easily with a head start of three points, especially since it will be free. Another note is that this card doesn't care about Noble or Hero tokens, which Slaanesh is all about, so you can use this to your advantage and surprise the other players by focusing on a region like Tilea or Kislev (add some of your Daemonettes for a guaranteed domination on the region) if they don't have any tokens that are useful to you.
 
-> Duskblades are proficient with all martial weapons, as well as all armors and shields (except tower shields).
+### Perverse Infiltration - 0 pp
 
-> Errata: Page 19 – Duskblade Class Features; Weapon and Armor Proficiency [Omission]
+Play this for free: get a free corruption token in that region. The card is straightforward - since you can't use it to get a dial advancement condition, you'll use it solely for the chance to take part in ruinations, especially those that are not particularly close to your regions of interest (which means, regions that do not contain a Noble or a Hero token, at least in the vast majority of times). However note, that this card will not give you the 'taking part' in a ruination bonus, because, to qualify, you have to put corruption tokens in that region during the corruption phase. Of course, the downside is that you either have to time it well. It's not so difficult to get the ruination of a region right, since ruinations occur at the end step; the most difficult part is mainly to get an open chaos card slot on your turn (remember you're playing last in the player order, so if there's a lot of hype over a region that's close to being ruined, cards might get played) and for your token to actually to make it to the end step, as there are multiple effects (it's kinda Nurgle's theme) to remove corruption tokens. Thankfully, Nurgle won't be able to remove your tokens with his threat dial bonuses if you play your chaos card in the same round the region is going to be ruined, as ruined regions are scored before advancing threat dials. Unfortunately, Perverse Infiltration won't be able to do much more than getting you the second ruiner place and score you some additional victory points, but usually, unless the region that's being ruined is far away, almost everyone will invest a single cultist in order to get some additional points, so remember to be careful. Another way of using it, due to your low number of figures, is probably to just ruin the regions you have invested in more rapidly.
 
-> The "Weapon and Armor Proficiency" Class feature for duskblades should state: "Duskblades are proficient with all simple and martial weapons."
+## Utility & Control Cards
 
-Duskblades have the default proficiencies most martial classes get.
+### Dark Influence - 1 pp
 
-There are three main weapon styles that a character can choose from. These are:
+This card is quite versatile and helps you to offset some of the randomness of the game setup out of your game, in order to better plan your strategy. What's most unfortunate is that this chaos card only allow you to move only a single Hero, Noble or Peasant token. So far, I've mostly used it to save my Noble tokens from ruinations in order to continue get additional victory points and dial advancement conditions. If, at the start of the game your regions of interest are far off one another, you can use Dark Influence in order to move your token to a more advantageous position, possibly in a middle region with high conquest value, in order to get more victory points. You can also move Hero tokens if need be, in order to kill units of other gods; this seems to be a valid strategy, but I usually won't bother, since the domination step is before the Hero token resolution, so it won't make much difference; of course, the other players will need to re-invest power points to summon their figures.
 
-* Two weapon style.
-* Two-handed weapon style.
-* Weapon and shield style.
+### Soporific Musk - 2 pp
 
-The duskblade, being a hit point damage dealer, will most often choose two-handed weapon style. There is just two much synergy for a melee class that favors strength. Power attack damage is doubled and strength damage is multiplied by x1.5, just for wielding a weapon with both hands. The greatsword is the weapon that is used for sheer damage. A great alternative is the guisarme, which has reach and can be used to trip enemies. As the duskblade gains levels, weapon special abilities become more important than damage numbers. Reach or the ability to disarm, trip or prepare against a charge are more precious than just a couple points of damage.
+This chaos card is one of those that at first seem to be overcosted and underwhelming. However, I came to like this card very much and it's one of the few that can be used as both an offensive and a defensive tool. The truth is that three out of four players in this game love their cultists and that their cultists are limited - it's not one of those examples where you're getting control of a unit that doesn't make any difference and your opponent can just summon more - it's like taking one out of eight, six or four of their cultists, which is a quite large percentage if you think about it closely. Now, this card hurts, but when you think about what its uses are, you'll be positively surprised - you can take part in distant ruinations, you can transform parasitic cultists (like those Khorne usually uses) into your own, denying them victory points and making them yours. But most importantly, this card can win get you those precious additional dial advancement conditions and take you one step closer to winning the game. A related note is that if another player has upgraded his cultists, you're receiving the upgrage's benefit, too, at least for that cultist; it's probably not that important, besides dominating Khorne's cultists that is able to attack, as the others trigger their bonuses when moving. I'm not sure whether or not you still control the unit after that it's left the region that you applied Soporific Musk to it in the first place. If anyone has any information on this subject, please comment.
 
-Fighting with two weapons is not out of the question for a duskblade, but it is not a priority. One can combine this fighting style with two-handed weapon style if using double weapons. The main reason to pick it up is to optimize the arcane channeling ability, after attaining level 13. If you can increase your number of melee attacks in a round, then you can channel more spells. This weapon style requires that your dexterity score is better than at least 13.
+### Field of Ecstasy - 2 pp
 
-Shields are effective tools to increase your armor class a couple of points during the early levels. Unfortunately, you can't combine shields and two-handed weapons. Some additional armor class doesn't warrant giving up double power attack or x1.5 strength damage. At later levels, an animated shield is a good addition to the duskblade's equipment.
+I think this is a wonderfully solid control card: it has a reasonable price and the effect is simple, effective and powerful. It's another one of those cards that screw someone's power points, when he makes the mistake of over-commiting non-cultists to a particular region. You can also use it to secure a dial advancement condition or, again in the great scheme of getting double ticks, deny a dial advancement condition to Khorne.
 
-## Spells
+# General Strategy
 
-> You cast arcane spells, which are drawn from the duskblade spell list on page 98. You can cast any spell you know without preparing it ahead of time.
- 
-> To learn or cast a spell, you must have an Intelligence score equal to at least 10 + the spell level (Int 10 for 0-level spells, Int 11 for 1st-level spells, and so forth). The Difficulty Class for a saving throw against your spell is 10 + the spell level + your Int modifier.
+## Early Game (Turn #1 - #2)
 
-> You can cast only a certain number of spells of each spell level per day. Your base daily spell allotment is given on Table 1–3. In addition, you receive bonus spells per day if you have a high Intelligence score (see Table 1–1: Ability Modiﬁ ers and Bonus Spells, page 8 of the Player’s Handbook.) 
+Your early game depends a lot on the game setup situation. Remember that you're playing last, so you'll have some serious pointers about where each player wants to deploy his figures. You can use those zero-power point cards or just spam cultists on a Noble token in order to delay and watch as the board reaches a fixed point. If you've got a Dark Influence card, save it for later - it's important to get dial advancement conditions, but it will be almost impossible for you to get the double tick that early in the game; you can just spam cultists in a region to quickly ruin it and use the Dark Influence to move the token to a more valuable region before the ruination occurs. Spreading your units to multiple regions might not be such a great idea, because you don't want to give Khorne more dial advancement conditions. An exception to this rule is using your domination cards to score points in conjunction with your Daemonettes, which are quite tough. Remember that you want to be far from the action, but not too far. Tilea is probably a very good starting region if it has a Noble token, because it's not Populous, so you're safe from Nurgle and at the same time is next to a very high scoring region; another good choice is Kislev and Bretonnia. On the second turn you can also try and dominate a high scoring region using Degenerate Royalty.
 
-> Errata: Page 19 – Duskblade Class Features: Spells [Substitution]
-> 
-> The first paragraph of the "Spells" class feature should read: "A duskblade casts arcane spells, which are drawn from the duskblade spell list on page 24. Duskblade spells unique to this book appear on a spell list Page 98 
+## Mid Game (Turn #3 - #4)
 
-> Errata: Page 19 – Duskblade Class Features: Spells [Omission]
-> 
-> The duskblade "Spells" class feature should have a sentence that reads the following at the end of the last paragraph: "A duskblade’s caster level is equivalent to his class level."
-
-## Spells Known
-
-> You begin play knowing two 0-level spells and two 1st-level spells, chosen from the duskblade spell list. You also know one additional 0-level spell for each point of Intelligence bonus.
-
-> Each time you gain a new class level, you learn one additional spell of any level you can cast, chosen from the duskblade spell list.
-
-> Upon reaching 5th level, and at every subsequent oddnumbered level, you can choose to learn a new spell in place of one you already know. In effect, you lose access to the old spell in exchange for gaining the new one. The new spell's level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level spell you can cast. For instance, upon reaching 9th level, you could trade in a single 1st-level spell (two levels below the highest-level spell you can cast, which is 3rd) for a different 1st-level spell. You can swap only a single spell at any given level and must choose whether or not to swap the spell at the same time that you gain new spells known for the level.
-
-> You need not prepare spells in advance. You can cast any spell you know at any time, assuming you have not yet used up your spells per day for that spell level. 
-
-## Arcane Attunement (Sp)
-
-> You can use the spell-like powers dancing lights, detect magic, flare, ghost sound, and read magic a combined total of times per day equal to 3 + your Int modifier. These spell-like powers do not count against your total of spells known or spells per day.
-
-There is a selection of feats from Drow of the Underdark that upgrade spell-like abilities. Since arcane attunement grants spell-like abilities, duskblade is qualified to pick them. These are great picks for level 1, especially if you can retrain them at later levels.
-
-Fascinating Illumination should be the feat you should pick if you are using this trick. It enables you to transform dancing lights into hypnotic pattern. Hypnotic pattern is a level 2 spell that can fascinate 2d4 + caster level of hit dice. A fascinated creature stands or sits quietly, taking no actions other than to pay attention to the fascinating effect, for as long as the effect lasts. You can't take hostile actions without breaking the effect against the affected creature.
-
-Deceptive Illumination transforms dancing lights to silent images. Silent image is a powerful spell against enemies that are not intelligent. However, dungeon masters tend to dislike silent image being an answer to anything without brains.
-
-The artificer's monocle from Magic Item Compendium can be used to transform detect magic to identify magic items.
-
-## Armored Mage (Ex)
-
-> Normally, armor of any type interferes with an arcane spellcaster's gestures, which can cause spells to fail if those spells have a somatic component. A duskblade's limited focus and specialized training, however, allows you to avoid arcane spell failure so long as you stick to light armor and light shields. This training does not extend to medium or heavy armors, nor to heavy shields. This ability does not apply to spells gained from a different spellcasting class.
-
-> At 4th level, you learn to use medium armor with no chance of arcane spell failure.
-
-> At 7th level, you learn to use a heavy shield with no chance of arcane spell failure.
-
-## Combat Casting
-
-> At 2nd level, you gain Combat Casting as a bonus feat. 
-
-## Arcane Channeling (Su)
-
-> Beginning at 3rd level, you can use a standard action to cast any touch spell you know and deliver the spell through your weapon with a melee attack. Casting a spell in this manner does not provoke attacks of opportunity. The spell must have a casting time of 1 standard action or less. If the melee attack is successful, the attack deals damage normally; then the effect of the spell is resolved.
-
-> At 13th level, you can cast any touch spell you know as part of a full attack action, and the spell affects each target you hit in melee combat that round. Doing so discharges the spell at the end of the round, in the case of a touch spell that would otherwise last longer than 1 round.
-
-## Quick Cast
-
-> Beginning at 5th level, you can cast one spell each day as a swift action, so long as the casting time of the spell is 1 standard action or less.
-
-> You can use this ability twice per day at 10th level, three times per day at 15th level, and four times per day at 20th level.
-
-## Spell Power (Ex)
-
-> Starting at 6th level, you can more easily overcome the spell resistance of any opponent you successfully injure with a melee attack. If you have injured an opponent with a melee attack, you gain a +2 bonus on your caster level check to overcome spell resistance for the remainder of the encounter. This bonus increases to +3 at 11th level, to +4 at 16th level, and to +5 at 18th level.
+If you want to win by your dial, this is where you'll have to get lucky, otherwise you'll just have to switch to a victory point win by necessity; if Old World cards that do not add additional Hero or Noble tokens are drawn, you can try and use your third dial bonus in order to get the additional ticks needed. Otherwise, start laying some dominations on those middle regions and in addition put the Noble tokens on them, so that you get a higher return. Try to participate in ruinations and always try to get at least the second place with your Perverse Infiltrations - add cultists as needed. 
