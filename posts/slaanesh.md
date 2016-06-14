@@ -24,7 +24,6 @@ Slaanesh wants Noble tokens and those are only two at the start of the game. Not
 
 # Threat Dial
 
-
 ![Slaanesh's dial](http://1.bp.blogspot.com/-CL1iCIjSQ4w/UFwPGLH0yfI/AAAAAAAAAC8/xGcEEDIt7qA/s1600/%CF%83%CE%BB%CE%B1%CE%BD%CE%B5%CF%82.jpg)
 
 As written previously, your threat dial is the shortest one; unfortunately, the trend which is to offer some victory points at the first tick and an upgrade card at the second is also repeated for Slaanesh's threat dial. 
@@ -33,11 +32,11 @@ The other unique feature of Slaanesh's dial is just next to the victory tick - y
 
 # Upgrades
 
-##Cultist Upgrade
+## <span class="navy">Cultist Upgrade</span>
 
 Your seductresses are, to put simply, the figures that will win the game for you, barring exceptional circumastances. Your four warriors and your greater daemon are just not enough - they only have an auxiliary purpose; besides, they are mostly defensive in nature and will mostly help you to control a region rather to act aggresively. This upgrade is of top priority, because it enhances your main units; a defensive upgrade will keep your cultists from dying with only one lucky hit and secure your precious dial advancement conditions.
 
-##Power of Pain/Power of Pleasure
+## <span class="blue">Power of Pain/Power of Pleasure</span>
 
 It annoys me a little that you need to get both in order to really have a larger power point reserve than the other gods. It's a simple: get two and one for free (like pizza!) and although it generally seems to me as being an average deal I usually end up getting them for my second and third upgrade, as the one is next to the other and I don't have to wait long to utilize my additional power points. Slaanesh has the special benefit to act last in the player order, which may be invaluable as the game progresses: you can delay until all players have depleted their power point reserve and then start using your leftover power points in order to control enemy figures with your chaos cards to secure a win. In a situation like this, having the additional power points from these upgrades is a very good thing, but also situational - it largely depends on the chaos cards that you have drawn and whether you needed to use them or not. Another way to use these upgrades is to put some of your fighting figures on the board in order to score some quick-n-dirty victory points. Important note: another reason why this upgrade might be more worth it than the others for you last upgrades is the Hero tokens; you get dial advancement condition by investing your cultists in regions that contain your Hero tokens and if you're going for a dial win (or even when you're not), you'll quite possibly have the highest threat score of all the players. The fact that a Hero token removes a unit of the player that has the highest threat score in that area means that if you're investing in remote regions that no one cares about, means that you'll definitely have to sacrifice some of your units, regardless of your threat score. So, since you'll probably want to re-use your units, having these ugrades might prove handy when meddling with those pesky Hero tokens. 
 
@@ -45,7 +44,7 @@ It annoys me a little that you need to get both in order to really have a larger
 
 I'm always fascinated by this upgrade and I usually find myself wondering whether I should get this upgrade or the power point upgrades, but almost always the power point upgrades win the mental battle. My first problem is that this upgrade only lets you control an enemy cultist or warrior - not a greater daemon; I know deep inside that an upgrade card like that would be extremelly potent, but now that I've got a reason to summon my greater daemon, I'd like my three power points spend in a good way, not (another pizza deal!) summon your greater daemon: get a cultist for free. If I could get a fourth upgrade card, this would ultimately be my choice, but I prefer going with my large power point reserve and my sturdy seductresses. I'm planning to playtest a Cultist, Greater Daemon & Power Point upgrade strategy soon and post the results - if you've already done such a test or have developed an alternative strategy revolving around this upgrade card, please share the results.
 
-##Warrior Upgrade
+## <span class="red">Warrior Upgrade</span>
 
 This upgrade seems to be very good to inexperienced players and I see it getting picked often and they are right - it's actually a very good upgrade! The downside is that it only affects your three Daemonettes that will, as your greater daemon, rarely see any play, unless you don't have anything better to spend your power points on. The greater daemon upgrade might be quite goon in the sense that it has the benefit that a strategy can evolve around it, but this is another boring defensive upgrade to your already sturdy warriors. Not to mention that if someone scores two hits in a region where you have warriors and cultists, he is going to completely ignore your Daemonettes that are not able to die (especially with this upgrade!) and are not really an offensive threat and immediately target your cultists. The only way that this upgrade is going to be useful, is if you follow a weird anti-Khorne strategy, to try and dominate regions with your heavily defensive units, backed by some of your chaos cards in order to get the victory points, but not giving him dial advancement conditions. 
 
