@@ -23,15 +23,59 @@ Spellcasters dump as many points as they can in their primary mental attribute b
 
 What I mention above applies mainly to character creation. After this process you will most certainly try to make the most out of your primary combat attribute using level up bonuses and items, as well as independent boosts to your to hit score and damage.
 
-### <span class="blue">Strength</span>
+### <span class="blue">strength</span>
 
-**Translation:** damage.
+**What people think it's useful for:** melee attack rolls.
+**What it is actually useful for:** damage.
 
 Strength boosts your attack rolls when using melee weapons. Because of this fact, it's often mistakenly associated with the key attribute of melee combat. In reality, strength is able to boost the damage of pretty much any combat style: ranged (through composite bows), throwing weapons and melee. This is true even for dual wielding builds, which are traditionally dexterity based. Granted, you are getting only one half of your strength bonus on off-hand attacks, so it's not the best option, but it works.
 
 We have established that you will have to invest in strength to have a cheap and readily available damage source with virtually any weapon. Now the question that you need to ponder on while planning your melee fighter build is if you want to have strength as your main combat attribute. Strength is straightforward, meaning that it won't bother you and it will just work. You won't need to rely on feats or class features like Weapon Finesse to switch to another attribute for melee fighting. You will be able to boost it easily with low level spells like enlarge person and fist of stone.
 
 Strength is also useful because it contributes to strength checks and most of the special attacks: bull rush, overrun and trip. Even if you don't want to use these maneuvers, having a good strength score will provide you some bonus if you are defending against them, as most of them are opposed checks.
+
+As a final note, because of the way that carrying capacity works, strength is an attribute that gives you a marginal benefit even when it's not even.
+
+### <span class="blue">dexterity</span>
+
+**What people think it's useful for:** ranged attack rolls.
+**What it is actually useful for:** combat reflexes.
+
+Dexterity is going to be used as your main combat attribute when using ranged weapons like bows, crossbows and throwing axes. The trouble that these builds have is that they need to invest in strength, or they need another source of extra damage like specific feats, such as crossbow sniper or dead eye.
+
+Dexterity increases reflex saves, armor class and touch armor class. The most important of these stats is touch armor class, which is difficult to increase through items and abilities. I am conflicted about its actual usefulness beyond a certain level, though, because it's far easier to increase attack rolls that it is to increase touch armor class.
+
+Dexterity is a requirement for many different feats, especially for those that fit in the archery and the two weapon fighting styles. One of the most important of them is the combat reflexes feat from Player's Handbook. This feat, combined with some of its upgrades (for instance, robilar's gambit) are the basis for builds that use attacks of opportunity as a source of generating extra attacks per round.
+
+### <span class="blue">constitution</span>
+
+Constitution is important for all characters, especially when you are going to be in melee range. Truth be told, if you select the fighter class, you already have a pretty good hit die and good fortitude saving throws, but almost everyone can spare a 14 in constitution before racial modifiers. Whatever you do, try to keep positive bonuses in your constitution, it's invaluable.
+
+### intelligence
+
+Intelligence is sneakily useful when planning a fighter build.
+
+The first benefit that it provides is obvious: skill points. Fighters get the lowest number of skill points per level up. If you need skill points to fulfill the requirements of a feat or a prestige class, then plan ahead and if need be, get a 12 or 14 in intelligence.
+
+If you need the combat expertise feat for your build, you'll have to have a minimum of 13 in intelligence, because that's its requirement. Since the difference between a 13 and a 14 are formidable, compared to the investment, consider spending an additional point to benefit from the extra skill point.
+
+### wisdom
+
+The purpose of this attribute is to boost your will saving throw, especially early in your career, where you will generally be unable to purchase effective equipment that boosts saving throws.
+
+Whatever you do, spend a couple of points to get wisdom to 10. This way, you won't be getting any negative modifiers, as starting out with a negative saving throw score is going to be brutal. Races that have penalties to wisdom are extremely rare, so that 10 won't be reduced by racial modifiers.
+
+Wisdom is the key skill for most of the detection skills: listen, spot and sense motive; these skills are useful for any character, but listen and spot are not class skills for the fighter class.
+
+Some feats, especially the Combat Form line, have wisdom as a requirement, but most of them do not have that much of an impact to have a whole playstyle revolving around them.
+
+### charisma
+
+Charisma is completely optional, which makes it a prime candidate for dumping. It can provide a couple of interesting abilities to your repertoire, but it's nothing that you can't live with.
+
+Demoralize is an option that's provided by the intimidate skill and it's an effective tactic against enemies that are not immune to mind-affecting effects. If the demoralize attempt is successful, then the target becomes shaken for 1 round and takes a -2 penalty to almost everything. Additionally, fear effects stack, so demoralize becomes better if other people in your party use the same tactic.
+
+This skill check works even if your charisma score is low; however, ever since the sourcebook Drow of the Underdark was released, the demoralize maneuver was improved dramatically, because of a feat named Imperious Command, which has a requirement of 15 in charisma.
 
 ## multiclassing
 
