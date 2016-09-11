@@ -23,6 +23,16 @@ Spellcasters dump as many points as they can in their primary mental attribute b
 
 What I mention above applies mainly to character creation. After this process you will most certainly try to make the most out of your primary combat attribute using level up bonuses and items, as well as independent boosts to your to hit score and damage.
 
+### <span class="blue">Strength</span>
+
+**Translation:** damage.
+
+Strength boosts your attack rolls when using melee weapons. Because of this fact, it's often mistakenly associated with the key attribute of melee combat. In reality, strength is able to boost the damage of pretty much any combat style: ranged (through composite bows), throwing weapons and melee. This is true even for dual wielding builds, which are traditionally dexterity based. Granted, you are getting only one half of your strength bonus on off-hand attacks, so it's not the best option, but it works.
+
+We have established that you will have to invest in strength to have a cheap and readily available damage source with virtually any weapon. Now the question that you need to ponder on while planning your melee fighter build is if you want to have strength as your main combat attribute. Strength is straightforward, meaning that it won't bother you and it will just work. You won't need to rely on feats or class features like Weapon Finesse to switch to another attribute for melee fighting. You will be able to boost it easily with low level spells like enlarge person and fist of stone.
+
+Strength is also useful because it contributes to strength checks and most of the special attacks: bull rush, overrun and trip. Even if you don't want to use these maneuvers, having a good strength score will provide you some bonus if you are defending against them, as most of them are opposed checks.
+
 ## multiclassing
 
 ### the odd-level horror
