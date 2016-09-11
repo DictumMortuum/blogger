@@ -77,6 +77,56 @@ Demoralize is an option that's provided by the intimidate skill and it's an effe
 
 This skill check works even if your charisma score is low; however, ever since the sourcebook Drow of the Underdark was released, the demoralize maneuver was improved dramatically, because of a feat named Imperious Command, which has a requirement of 15 in charisma.
 
+## archetypes
+
+Archetypes are four categories that I've got in mind and use them in order to categorize martial characters, based on the way that they contribute to battle.
+
+The **brute** specializes in hitting hard by optimizing his power attack damage. The Brute is playable at almost all levels, but is really able to come online after the 6th or so level.
+
+The **tempest** tries to increase his damage output by increasing the number of attacks he gets in a round. Most tempests require many feats, items and class abilities in order to be effective, so tempest builds are pretty late to bloom.
+
+The **support** employs battlefield control through exotic weapons and combat feats. Even though it doesn't focus on damage primarily, it's one of the most effective low-level choices for a fighter and continues to be effective at all levels, depending on your feats.
+
+The **blasphemer** dabbles with magic to enhance his combat ability. This archetype requires some levels in the abjurant champion prestige class (preferably all five), so it's playable at the mid level range (around 11-12).
+
+### brute & tempest hybrid
+
+Combining these two archetypes is straightforward: you're trying to maximize attacks per round and power attack damage.
+
+Fighting with two weapons and using Power Attack is generally considered to be a very bad idea, not only because you get to add half the amount of the penalty that you apply to your attack rolls (instead of twice that, when using a two-handed weapon), but also because fighting with two weapons incurs additional attack roll penalties (best case scenario, -2 to both hands). Additionally, two weapon fighters prefer light weapons, in order to lessen their penalties, but you can't Power Attack with those, so you're forced to spend additional feats in Oversized Two-Weapon Fighting. If you want to make a hybrid build that incorporates Two Weapon Fighting and Power Attack efficiently, then you'll have to use the Exotic Weapon Master or the Revenant Blade, but do note that they both use double weapons in order to achieve this.
+
+Another option is acquiring multiple natural attacks, which does not affect your attack routine, but, since natural attacks are considered to be one-handed attacks, you don't get the multiplier to the power attack damage, as two-handed weapons do.
+
+These characters want to take as many full-attacks as possible in a given fight, so, since their weapon selection is usually limited, they try to acquire additional ways to move for free or just charge, dipping into Barbarian for the Lion Totem Barbarian alternative class feature. Shock Trooper also is a very useful feat, because it lessens the attack penalties while providing you with full Power Attack power.
+
+### brute & support hybrid
+
+One of the easiest hybrids, this fighter acquires a bit of crowd-controlling feats, like Brutal Strike and Driving Attack that directly benefit from having a high Power Attack damage output.
+
+These hybrids also use multiple feats that augment bull rushing, like Pushback, Knockback, Shock Trooper and the alternative class feature Dungeoncrasher.
+
+### brute & blasphemer hybrid
+ 
+This combination specializes in maximizing his Power Attack damage through magic means, for instance by getting touch attacks (e.g. the spell Wraithstrike is a staple feat that enables that kind of thing).
+
+Since the blasphemer can also acquire strong mounts through the Improved Familiar feats, a mounted brute also works in order to receive some cheap Power Attack modifiers, like spirited charge.
+
+### tempest & support hybrid
+
+There are multiple attack modes, like trip, disarm and grapple and these do not depend on damage, but they do cost an attack. Getting additional attacks are very useful in order to make these work and the tempest provides a solid base for this kind of crowd control.
+
+Additionally, feats like Boomerang Daze and Three Mountains directly benefit from a high number of attacks per round.
+
+Finally, a special type of feats exist mainly in Complete Warrior (but also other books), called [Style] feats. These feats give you additional benefits for fighting with two specific weapons and for this reason they regularly require the Two Weapon Fighting feat, like High Sword, Low Axe.
+
+### tempest & blasphemer hybrid
+
+Tempest + Blasphemer = A two-weapon fighter that enhances his weapon damage or his attack rolls with spells
+
+### support & blasphemer hybrid
+
+Support + Blasphemer = Bladeweave, exotic weapons
+
 ## multiclassing
 
 ### the odd-level horror
