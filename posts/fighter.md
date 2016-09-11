@@ -1,10 +1,11 @@
-# the fighter's handbook
-
 ## introduction
 
 A fighter might be bland, but thankfully it's a malleable class. Unfortunately for the player that wants to be a fighter, he doesn't have the in-game versatility of the spellcasting classes: they can rest, change their spells and essentially be an almost completely different character - their feat and prestige class selection might not be subject to change, but what mostly deals with enemies and helps their teammates is their spells. To make an analogy, a fighter is like cement: you can work with it at first, but once it hardens it's generally too difficult to make drastic changes; on the other hand, classes that generally rely on spells are like plasteline clay: their attribute (which is basically their color) remains the same, but you can shape it as you wish.
+
 So, since you decided to play a fighter, the best thing that you can do in order to be successful and actually help your party is to come prepared; study the builds of your party members and find out the weak spots; try to fill them in. This is actually a tricky process, since you won't generally have full knowledge of the builds while you're making your own, so you'll have to rely, at least partially, to previous experiences that you had with your friends. You can also get important information that can influence your build choices by your in-game battles, so make sure to keep a few notes when during an encounter something really bad happens to you or to a teammate that could prove to be disastrous to the party.
+
 I felt the urge to write a few words on this subject, mainly because I've many times experienced players that make their builds independently of their party. I've also heard players stating that they don't want to play spellcasting classes, because they have a lot of bookkeeping. While that is generally true, this doesn't mean that fighters don't have bookkeeping to do; a spellcaster memorizes or selects spells trying to cover as many threats as possible, which is what a fighter should also do - the threats are the same, the only thing that changes is the means they employ in order to deal with them: one has spells, the other has special abilities and weapons. During character creation your cement isn't dry yet, so you can make any changes you like; try to work with it in order to fit your team best, don't let it dry and then regret your choices.
+
 Since you already decided that the bulk of your levels will be spent in the fighter class, naturally, you want to be able to use weapons as your main source of damage. This is perfectly fine and there are many different combat styles that you can specialize in that deal a lot of damage. However, you need to remember that there are many ways in order to avoid or be immune to physical attacks; this guide will expand on hitting hard with your favorite weapons or styles, while tackling the subject of what you will actually do when your weapons prove worthless versus your enemies.
 
 ## multiclassing
@@ -12,6 +13,9 @@ Since you already decided that the bulk of your levels will be spent in the figh
 ### the odd-level horror
 
 Simply put, don't make builds with an odd number of fighter levels.
+
 Readers that are following the optimization community are familiar with this notion; as a matter of fact, it is number six of Caelic's [ten commandments of practical optimization](http://www.minmaxboards.com/index.php?topic=4136.0).
+
 The reasoning behind this commandment is that you are getting nothing new from those fighter levels and you are better off dipping in other classes (with a strong preference on those that feature full base attack bonus), in order to get additional special abilities. However, do keep in mind that this piece of multiclassing advice is only true for finished builds. Do not be afraid to enter a prestige class after five fighter levels. Many prestige classes have a base attack bonus requirement of +5 or +7. You can get that even fighter level later in your build and at the same time you will grab a bonus [fighter] feat. If you plan everything beforehand, getting that feat may be more powerful, too, as you will be able to fulfill additional requirements (e.g. higher base attack bonus).
+
 However, do note that a good break-off point for dipping and switching to prestige classes is the sixth fighter level, because the bonuses you're getting at that level (additional attack and two feats) increase your power exponentially.
