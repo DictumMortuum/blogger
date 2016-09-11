@@ -77,6 +77,170 @@ Demoralize is an option that's provided by the intimidate skill and it's an effe
 
 This skill check works even if your charisma score is low; however, ever since the sourcebook Drow of the Underdark was released, the demoralize maneuver was improved dramatically, because of a feat named Imperious Command, which has a requirement of 15 in charisma.
 
+# class features
+
+## <span class="red">Greater Weapon Focus</span>
+
+*Fighter 8,Player's Handbook*
+
+Weapon Focus is actually a useful feat, because there is a large number of other good feats that require it, but the benefit it provides you with is horrendous. Greater Weapon Focus on the other hand is only required for Weapon Supremacy/Greater Weapon Specialization and gives you the same benefit, making it a horrible pick.
+
+## Weapon Specialization
+
+*Fighter 4,Player's Handbook*
+
+Contrary to popular belief, Weapon Specialization's power completely depends on the build you're shooting for and can be anywhere from a complete waste of space to a very good damage source. Extra unconditional damage is always welcome, but a +2 bonus per hit isn't going to do you much good, unless you pump your attacks per round: an archer can easily get +10 from it per round, but it's next to nothing compared to a charger's Power Attack feat as a means for extra damage. It's not even useful as a requirement filler, because it doesn't oftenly appear as such, contrary to its little brother, weapon focus. The truth about Weapon Specialization is that its bonuses are useful, but usually you've got other priorities and you can definitely live without it.
+
+## <span class="red">Greater Weapon Specialization</span>
+
+*Fighter 12,Player's Handbook*
+
+Getting a total of +2 to hit and +4 to damage for a total of four feats, is a very bad deal. Like Greater Weapon Focus, the benefits this feat provides are too few and you shouldn't consider it, unless you're shooting for Weapon Supremacy.
+
+## Melee Weapon Mastery
+
+*Fighter 4, BAB +8,Player's Handbook II*
+
+Essentially pick a damage type and gain a +2 untyped bonus to damage and attack rolls with all weapons that deal this kind of damage. Compare it to Greater Weapon Specialization/Greater Weapon Focus which combined give one attack bonus less with just one weapon, contrary to a full category of weapons and you'll understand why they're just a feat sink.
+
+Even though this is an average feat, you can optimize it a little bit by using it with weapons like the morningstar, which has two damage types, both as a base (acquiring the feats that are required on a morningstar and then selecting two melee weapon masteries with piercing and slashing) or as a backup (if you have weapon mastery [piercing] you can gain the benefits with a morningstar for instance).
+
+This feat isn't worth the trouble most of the times; it would definitely be worthwhile if it also gave you the benefits of having Weapon Focus and Weapon Specialization for a whole category of weapons (i.e. not only their benefits), in order to cut down the required feats so many [Weapon Style] and [Fighter] feats have.
+
+## Ranged Weapon Mastery
+
+*Fighter 4, BAB +8,Player's Handbook II*
+
+This feat is exactly the same with Melee Weapon Mastery, but it has the added benefit of increasing the range increment of the weapon by 20ft. Higher range is always welcome when using ranged weapons, especially those thrown weapons that have a small range increment. Also note that it's generally difficult to boost the damage of missile weapons, contrary to melee weapons (strength bonus and Power Attack), so all damage boosts are more than welcome.
+
+## Crushing Strike
+
+*Fighter 4, BAB +14,Player's Handbook II*
+
+From the trio of "weapon category" feats from Player's Handbook II, I consider this the weaker of the three. The effect can be considered useful if you have a large amount of attacks per round in order to lessen the penalties of your iterative attacks. Unfortunately, the feat explicitly states that the bonuses last until the end of your current round, which rules out attacks of opportunity.
+There is a trick that should be mentioned that involves this feat, sometimes combined with Tiger Claw's "Blood in the Water" stance: if you have Great Cleave (Supreme Cleave works a lot better) and a bag of rats, well, you can use your first iterative attack to kill a rat and kill the rest of the rats with the extra attacks of Great Cleave, giving you a +1 bonus to attack and possibly to damage. Then you can dump the rest of your attacks on your enemies, possibly after taking a 5ft step.
+
+Do note that according to the Player's Handbook II Errata, this feat is normally a [Fighter] bonus feat.
+
+## <span class="blue">Driving Attack</span>
+
+*Fighter 4, BAB +14,Player's Handbook II*
+
+If you favor bull rush, then this is a wonderful feat, as it lets you substitute your total damage bonus in place of your strength modifier when initiating a bull rush; because optimizing your attack damage using Power Attack is generally easy to do, you can get incredibly high bull rush checks and thus be able to push your opponents greater distances than normal and even have them fall prone. The fact that this feat is the piercing-themed, makes this fact weird, as it is more of a bludgeoning type ability.
+
+The feat requires you to use a full-round action and make a just a single attack with a piercing weapon in order to activate it, which is normally not that good, as you are denied of your iterative attacks, but by RAW the charge option works just fine. Shield Slam, a feat which activates when taking a full-round or charge action attacking with your shield, has the ability to stack with Driving Attack, if you use shield spikes; the shield spikes entry states "When added to your shield, these spikes turn it into a martial piercing weapon that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category larger than you. You can’t put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is like making a shield bash attack.", thus you can get both effects together.
+
+Other effects that have synergy with Driving Attack are: the Dungeoncrusher alternative class feature, the Brutal Strike [Fighter] feat, the Combat Brute [Tactical] feat and the Shock Trooper [Tactical] feat. A great weapon to use with this feat would be the morningstar, because it is both a piercing and bludgeoning weapon. You could for example charge an enemy with a morningstar using both hands, activating heedless charge and going all in for damage; Driving Attack activates in the process and you get a huge bonus to bull rush your opponent, in addition Brutal Strike activates, too, and benefits from your high Power Attack damage bonus. Assuming that you can push your foe back enough, you can activate Dungeoncrusher (you can use Directed Bull Rush in order to make this happen easier) and also set up Advancing Blows (from Combat Brute) for the next round. Getting all these effects together can be quite devastating for enemies, as it can very well leave them sickened, prone and next to a wall away from you, set up for a follow up charge the following round (with additional bonuses from Advancing Blows and Momentum Swing). You could even get Hold the Line and Standstill in order to avoid getting charged in return, if your enemy has the ability to stand as a swift action or you didn't leave them in a prone position.
+
+Do note that according to the Player's Handbook II Errata, this feat is normally a [Fighter] bonus feat.
+
+## Slashing Fury
+
+*Fighter 4, BAB +14,Player's Handbook II*
+
+If you favor slashing weapons, you can use this feat in order to gain additional attacks. The main bonus that makes this feat a lot different by those that offer additional attacks, is that you gain two attacks in a standard action, instead of an extra one in a full action. Unfortunately the required feats do not outweight the benefits of this feat, like Driving Attack does and in addition, the penalties that it applies to your attack sequence is very high.
+
+Do note that according to the Player's Handbook II Errata, this feat is normally a [Fighter] bonus feat.
+
+## <span class="red">Weapon Supremacy</span>
+
+*Fighter 18,Player's Handbook II*
+
+The benefits this feat provides are useful and nice, but if you consider that it requires a whooping five, taking the space for six out of your eleven bonus [Fighter] feats and that it comes very late in order to build around, it's not really worth your trouble.
+
+Do note that according to the Player's Handbook II Errata, this feat is normally a [Fighter] bonus feat.
+
+## <span class="red">Martial Stalker</span>
+
+*Fighter 1, Ki Power,Complete Scoundrel*
+
+Your fighter and ninja levels stack for the purpose of determining the size of your ki pool, as well as your AC bonus. They also stack for the purpose of qualifying for feats that require a minimum fighter level. Even though stacking feats are generally great and have been used in lots of builds (Swift Hunter is a great example for instance), the fighter and the ninja just lack the required synergy: you will mostly be using your ki power on ghost steps in order to enable your one or two dice of sudden strike and the ninja's armor bonus is not going to be better than wearing an armor.
+
+## <span class="red">Daring Warrior</span>
+
+*Fighter 4, Grace +1,Complete Scoundrel*
+
+Your fighter and swashbuckler levels stack for the purpose of determining your competence bonus on Reflex saves from the grace class feature and the swashbuckler's dodge bonus to AC. Your fighter and swashbuckler levels also stack for the purpose of qualifying for feats that require a minimum fighter level, such as Greater Weapon Focus. If Martial Stalker is a bad feat, this feat is a joke. It makes you dip two levels into the swashbuckler class, which isn't the best thing available, and nets you a total of +3 to reflex saves and a +4 dodge bonus against a single opponent (and only against his melee attacks!) over twenty levels. Compared to other stacking feats that made sense, this is just poorly written.
+
+## <span class="blue">Aligned Strike</span>
+
+*Fighter 4+,Complete Champion*
+
+Aligned strike is a quite colorful ability and really helps where damage reduction hurts most: the lower levels. For the cost of a [Fighter] bonus feat, you're getting a free action activated ability that aligns your weapon with one of your alignment's aspects. The fact that this ability is based on your alignment is significant, as there usually are no hard alignment restrictions for fighters.
+
+Aligned strike also seems to work after an alignment change; although I wouldn't suggest to anyone to purposely change their alignment in order to benefit from this alternative class feature, it's important that you get to use it, should such a change occur. Last but not least, in order to get the maximum out of it, although not necessery, you need a non-neutral alignment.
+This ability will work best for you, if your fighting style favors multiple attacks that do not deal significant damage; a power attack brute wielding a weapon with both hands will probably find this ability useless, but if you're favoring dual weapons and their damage isn't backed-up by damage enhancers (an example would be precision damage), then you're good to go and should invest in this. It should be noted, that this ability is one of the cheapest ways to align natural weapons.
+
+At any case, there are multiple spells and enhancements that align your weapons; some of them are very cost-effective and there is no reason for you not to use them, unless the cost is an issue. So, if you're designing a character that's pretty low in levels and you think that damage reduction is going to be an issue, Aligned Strike is going to serve you well; higher level characters should instead invest in items, barring extreme circumstances (e.g. not having access to your primary weapons for a long period of time, cost-effective damage reduction bypassers not available due to book availability or campaign style, etc).
+
+Rules as written suggests that only melee weapons are aligned until you no longer wield them; ammunition or thrown weapons (and lots of weapons can be effectively 'thrown') are charged until the either strike or miss a target, i.e. after you use them. When need arises, this ability can be handy if your party develops tactics around it.
+
+Aligned Strike is a supernatural ability, which is a big negative, as you don't want your tools to not function when inside antimagic or dead magic zones.
+
+## Armor of God
+
+*Fighter 8+,Complete Champion*
+
+Armor of God is one of those 'active' devensive abilities and it's pretty unique. You can reduce your base Will save as an immediate action in order to gain a bonus to your armor class equal to the amount of the reduction. I'm going to assume that since the armor class bonus is untyped, it applies to touch armor class, just like dodge bonus; otherwise, the ability is below average and you shouldn't consider investing in it; investing eight levels in the fighter class for it is not worth it.
+
+Armor of God completely depends on your <u>base</u> will score; if you decide to invest in this ability, the obvious optimization is to increase your base will score, by entering prestige classes or dipping; this should occur naturally and not push it to the limits.
+
+The good news is that the effects that target will saves and those that target armor class are not exactly mutually exclusive, but their intersection is relatively small. In order to keep your defenses up while your will save is down, you can invest in immunities; you can't normally cover them all, but it will give your character an extra degree of protection.
+
+You can safely use this when spellcasters are not around and you need the extra protection, especially against touch attacks. The bad news are that you're not going to be able to use it round after round - it's going to eat all of your swift actions and most of the times are vital for a fighter to function properly; however, it should be pretty good when targeted by touch attacks and it does pack a 'surprise factor' when used properly. As with Aligned Strike, Armor of God is a supernatural ability and that's a negative.
+
+## Resolute
+
+*Fighter 2+,Complete Champion*
+
+Resolute shares a lot with Armor of God; you lower one-half your base attack bonus and increase your Will save instead. Resolute is a lot easier to qualify for, since you can acquire it from level two. Unlike Armor of God, being careful about your prestige class and dips, other than keeping your base attack bonus up, is not required.
+
+This ability enables you to get a large bonus to your Will saves, high enough so that you don't have to worry about your will save, at least when it's not your turn. You can safely assume that the bonus will be equal or close to half your character level. It is also a great relief that the bonus lasts for more than just your next saving throw. Moreover, unless you want to keep your base attack bonus high for whatever reason during downtime (e.g. attacks of opportunity) or you want to keep your immediate actions for something more important, you can safely keep this up all the time; defining, however, when exactly your next action 'ends' outside of combat, is an interesting issue that you should discuss with your dungeon master.
+
+If the base attack bonus is going to deny you additional attacks on your next action, when you use Resolute on an enemy's turn, then this alternative class feature will be significantly worse; it's true that you're going to lose half your base attack bonus on your first attack, but the penalty lasts until the end of your next <u>action</u>, not the end of your turn. This means that after you make your first attack for the turn, then you get back your base attack bonus and when you check whether you'll continue attacking (thus choosing to full-attack) or take a move action, your additional attacks will be restored.
+
+Those who will benefit the most from Resolute will be people that have to dip multiple times in classes that have bad Will save scores, resulting at a low base score at high levels. Remember that this alternative class feature is not a solution for bad character planning, but it will mitigate some of the damage that has been done.
+
+This ability is average, but on the other hand, it does only cost a feat to acquire it and you can qualify for it at a low level. Do note that like all alternative class features from Complete Champion, this is a supernatural ability.
+
+## <span class="red">Elusive Attack</span>
+
+*Fighter 6,Player's Handbook II*
+
+Another alternative class feature that is defensive in nature; unlike Resolute and Armor of God however, this is rather dull and unimpressive. You make a single attack and then get a small dodge bonus to your armor class, which thankfully scales as you get levels, although it is unclear if those are fighter-only levels; only the levels that this bonus increases are mentioned.
+
+This ability is not that good and there are feats that do the job much better. What makes matters worse for those that are thinking of getting it, is that another great alternative class feature, Dungeon Crusher, is a lot better and you can only acquire it at level 6.
+
+## <span class="red">Counterattack</span>
+
+*Fighter 12,Player's Handbook II*
+
+You spend a full-round action in order to get the ability to attack as an immediate action an enemy that attacks you in melee. I don't know who thought of this ability, but it's definitely not worth even considering getting it.
+For one, I don't understand why this doesn't have a standard action activation. If that was the case and your character didn't have the ability to pounce, you could at least get a chance to get two attacks through - move up to a target, initiate Counterattack and then, if he attacks you, punish him for doing so.
+Two, I don't get why you get it so high in your career - in perspective, you can use attacks of opportunity from day one of your adventuring days and this ability is fairly similar (okay, most of the times, attacking an opponent in melee range won't enable you to get an opportunity attack at him, but with the right setup you could effectively do it), so why get it at fighter level 12 (attacks from base attack bonus in a full attack: at least 3), for a chance of only two attacks? If you want to get two attacks per round at the highest base attack bonus, just ask your friendly spellcaster for a haste spell and keep your additional attacks (and your immediate action!).
+
+Bottom line, this ability would be a lot better as a standard action if you could get it at level one or two, where abilities that grant you additional attacks matter most, but at level twelve it's not worth the feat slot.
+
+## <span class="red">Armored Mage</span>
+
+*Fighter 1,Complete Mage*
+
+Only useful if you're going to acquire an arcane spellcasting class and even then, there are some arcane spellcasting classes that let you cast in light armor. It is perfectly viable to get some spellcasting ability when you are a fighter for various reasons, but this alternative class feature is better left alone: even if you dip for spells, you'll have to take this on your first fighter level, which means that your fighter career will be gimbed for quite a few levels; you also have to spend two of your starting skill points on cross-class knowledge(arcana), which, while not that important, it is certainly annoying.
+
+## <span class="red">Overpowering Attack</span>
+
+*Fighter 16,Player's Handbook II*
+
+Overpowering attack is an ability that resembles a capstone; you could use your bonus [fighter] feat to acquire feats that are far worse than this, however, while it could prove to be a worthwhile addition to certain builds (for instance, attacks of opportunity builds), getting a whooping sixteen levels in the fighter class just for doubling your damage output on attacks of opportunity (since you're spending a full-round action to initiate this attack and you're only allowed to strike once), while significantly reducing your damage output on your regular attacks, is certainly not worth it, unless you really know what you're doing.
+
+## <span class="blue">Hit-and-Run Tactics</span>
+
+*Fighter 1,Drow of the Underdark*
+
+A very good ability that boosts your initiative and gives you an additional attribute modifier to damage, albeit conditionally (only against flat-footed enemies). These two effects are almost like two half-feats, considering the effects that Improved Initiative and Craven provide. Fortunately, even though your opponent must be flat-footed, this bonus damage isn't precision damage, which means that you get to add it against all opponents. Unfortunately, it doesn't work when flanking.
+
+It's debatable whether races other than drow and half-drow are able to acquire this alternative class feature, since it's not stated as a requirement. Some builds are able to incorporate this feature without much hassle, as there are lots of classes and prestige classes that will give you access to heavy armor proficiencies again; the tower shield proficiency is a little rarer, though.
+
 # archetypes
 
 Archetypes are four categories that I've got in mind and use them in order to categorize martial characters, based on the way that they contribute to battle.
