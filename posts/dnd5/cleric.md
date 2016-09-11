@@ -1,3 +1,8 @@
+---
+title: <span class='icon-handbook'></span> The Cleric's Handbook
+tags: handbooks, 5e
+---
+
 # Attributes
 
 Compared to most of the other caster classes, the Cleric has an interesting quirk: it doesn't have access to an ability or cantrip that enables a member of the class to attack using his wisdom modifier. This means that a Cleric has to rely on weapons in order to deal damage and as a direct consequence, he has to choose strength or dexterity as a secondary attribute, depending on whether the weapon's type is ranged or melee.
