@@ -1,4 +1,5 @@
 ---
+title: <span class='icon-handbook'></span> The Fighter's Handbook
 tags: handbooks, 35e
 ---
 
