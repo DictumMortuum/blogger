@@ -1,3 +1,7 @@
+---
+tags: handbooks, 35e
+---
+
 ## introduction
 
 A fighter might be bland, but thankfully it's a malleable class. Unfortunately for the player that wants to be a fighter, he doesn't have the in-game versatility of the spellcasting classes: they can rest, change their spells and essentially be an almost completely different character - their feat and prestige class selection might not be subject to change, but what mostly deals with enemies and helps their teammates is their spells. To make an analogy, a fighter is like cement: you can work with it at first, but once it hardens it's generally too difficult to make drastic changes; on the other hand, classes that generally rely on spells are like plasteline clay: their attribute (which is basically their color) remains the same, but you can shape it as you wish.
@@ -7,6 +11,16 @@ So, since you decided to play a fighter, the best thing that you can do in order
 I felt the urge to write a few words on this subject, mainly because I've many times experienced players that make their builds independently of their party. I've also heard players stating that they don't want to play spellcasting classes, because they have a lot of bookkeeping. While that is generally true, this doesn't mean that fighters don't have bookkeeping to do; a spellcaster memorizes or selects spells trying to cover as many threats as possible, which is what a fighter should also do - the threats are the same, the only thing that changes is the means they employ in order to deal with them: one has spells, the other has special abilities and weapons. During character creation your cement isn't dry yet, so you can make any changes you like; try to work with it in order to fit your team best, don't let it dry and then regret your choices.
 
 Since you already decided that the bulk of your levels will be spent in the fighter class, naturally, you want to be able to use weapons as your main source of damage. This is perfectly fine and there are many different combat styles that you can specialize in that deal a lot of damage. However, you need to remember that there are many ways in order to avoid or be immune to physical attacks; this guide will expand on hitting hard with your favorite weapons or styles, while tackling the subject of what you will actually do when your weapons prove worthless versus your enemies.
+
+## attributes
+
+The fighter is a class that's deceptively MAD. At first glance they look like they don't need multiple statistics, but that's not the case, as all attributes are beneficial, maybe with the exception of Charisma, which is optional.
+
+However, not all of the statistics need to be kept high. An average starting score in all attributes will serve most fighter builds fine. If the game you are playing a fighter in uses point buy, then make every bit of them count; even with 28 points, you can allocate 14/14/14 in your physical scores, a 14 in your primary mental stat and 10 in the other two.
+
+Spellcasters dump as many points as they can in their primary mental attribute because it gives them extra spells per day and it increases their spell DC. These two abilities are not easily replicated through items or class abilities. Even when you encounter them, they are often difficult to acquire. On the other hand, a fighter can easily get bonuses to hit and to damage, which is analogous to increasing his primary combat atttribute.
+
+What I mention above applies mainly to character creation. After this process you will most certainly try to make the most out of your primary combat attribute using level up bonuses and items, as well as independent boosts to your to hit score and damage.
 
 ## multiclassing
 
